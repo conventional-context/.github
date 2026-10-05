@@ -1,6 +1,6 @@
 # Conventional Context
 
-This organization is a **namespace reservation**. It holds no projects.
+This organization `conventional-context` is a **namespace reservation**. It holds no projects.
 
 Conventional Context lives at **[github.com/conventionalcontext](https://github.com/conventionalcontext)**.
 
